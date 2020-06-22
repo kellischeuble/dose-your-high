@@ -25,6 +25,7 @@ Inputs:
 
 
  ### FUTURE FEATURES
+ * Add auto encoder system
  * Ability to search for similar strains if there is one a user already likes
  * Add a "favorites list" to allow user to save strains that they have tried to help improve predictions
  * Encorporate NLP by adding text box to allow users to "describe their perfect strain" and match up with the strain description
